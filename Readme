@@ -1,6 +1,13 @@
-Our project was Gully Bots: Agentic AI Chatbot for Retail Product Insights. The purpose of our project was to help retail store managers gain insights into product quality issues, return policies, and efficiency. Since retailers receive thousands of product complaints, return requests, and service queries every day, it becomes very difficult to track all these issues and take corrective actions. Also, analyzing each review manually takes a lot of time and is inefficient. Apart from these issues, support data, return policy rules, and product metadata often reside in disconnected systems, making it even more difficult for retail store managers to manage the data and extract relevant information.
-To solve all these issues, we implemented a solution: introducing Gully Bots – a smart, agentic AI chatbot designed to transform retail customer support. This chatbot understands natural language and intelligently routes requests to specific tools. There are mainly three tools in our system:
-1.	Summarize product complaints
-2.	Analyze support resolution efficiency
-3.	Retrieve accurate return/refund policies
-Each tool has its own purpose, and they work in sync with the data available in the system. In the sections below, I will provide details about the data, tools, and technologies used, as well as my contribution to this entire project.
+# Gully Bots: Agentic AI Chatbot for Retail Product Insights
+
+Our project was **Gully Bots: Agentic AI Chatbot for Retail Product Insights**. The purpose of our project was to help retail store managers gain insights into product quality issues, return policies, and efficiency. Retailers receive thousands of product complaints, return requests, and service queries every day, making it extremely difficult to track all these issues and take corrective actions. Analyzing each review manually is time-consuming and inefficient. Additionally, support data, return policy rules, and product metadata often reside in disconnected systems, further complicating the process for retail managers to manage the data and extract relevant information.
+
+## Solution: Gully Bots
+
+To solve all these issues, we implemented a solution: introducing **Gully Bots** – a smart, agentic AI chatbot designed to transform retail customer support. This chatbot understands natural language and intelligently routes requests to specific tools. There are three primary tools in our system:
+
+1. **Summarize product complaints**  
+2. **Analyze support resolution efficiency**  
+3. **Retrieve accurate return/refund policies**
+
+Each tool has its own purpose and works in sync with the data available in the system. 
